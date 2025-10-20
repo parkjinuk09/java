@@ -19,7 +19,7 @@
 	<section name="JavaElementSearchActions">
 	</section>
 	<section name="NewPackageCreationWizard.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="503"/>
+		<item key="DIALOG_X_ORIGIN" value="310"/>
 		<item key="DIALOG_Y_ORIGIN" value="283"/>
 		<item key="DIALOG_WIDTH" value="586"/>
 		<item key="DIALOG_HEIGHT" value="500"/>
@@ -29,7 +29,7 @@
 		<item key="create_package_info_java" value="false"/>
 	</section>
 	<section name="NewClassCreationWizard.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="503"/>
+		<item key="DIALOG_X_ORIGIN" value="311"/>
 		<item key="DIALOG_Y_ORIGIN" value="242"/>
 		<item key="DIALOG_WIDTH" value="586"/>
 		<item key="DIALOG_HEIGHT" value="650"/>
