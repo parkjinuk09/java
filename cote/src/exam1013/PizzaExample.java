@@ -25,4 +25,3 @@ public class PizzaExample {
 		pizza.serve();
 	}
 }
-s
