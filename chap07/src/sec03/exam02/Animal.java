@@ -1,6 +1,6 @@
 package sec03.exam02;
 
-public class Animal {
+public abstract class Animal {
 	public String Kind;
 	
 	public void breathe() {

@@ -1,0 +1,25 @@
+package test.three;
+
+public class Defender extends AbstractMonster{
+	
+	
+	
+	public Defender(String name, int hp, int attack,int defense) {
+		super(name,hp,attack,defense);
+		this.name = "Defender";
+		this.hp = 20;
+		this.attack = 13;
+		this.defense = 25;
+	}
+	
+	
+	
+	
+	public int attack() {
+		System.out.println("Defender - Attack");
+		return attack;
+	}
+	
+	
+	
+}

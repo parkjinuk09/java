@@ -2,7 +2,7 @@ package sec03.exam02;
 
 public class Cat extends Animal{
 	public Cat() {
-		this.kind = "포우류";
+		this.Kind = "포우류";
 	}
 	
 	@Override

@@ -13,7 +13,7 @@ private String color;
 		return color;
 	}
 
-	public void setColor(String color) {
-		this.color = color;
+	 powerOn() {
+		System.out.println("전원을 켭니다.");
 	}
 }	

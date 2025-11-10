@@ -1,0 +1,43 @@
+package test.two;
+
+public class Customer {
+	public String name;
+	public String phone;
+	public int point;
+	
+	public Customer(String name,String phone) {
+		this.name = name;
+		this.phone = phone;
+	}
+	
+	
+	public Customer(String name,String phone, int point) {
+		this.name = name;
+		this.phone = phone;
+		this.point = point;
+	}
+	
+	
+	public int updatePoint(int amount) {
+		point += amount;
+		return point;
+	}
+
+
+	public int getPoint() {
+		return point;
+	}
+
+
+	public void setPoint(int point) {
+		this.point = point;
+	}
+
+
+
+	
+	
+	
+	
+	
+}
